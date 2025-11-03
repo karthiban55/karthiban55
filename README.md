@@ -23,28 +23,34 @@ I’m passionate about creating **unique projects** that stand out for their cre
 - CNNs, RNNs, LSTMs, Transformers  
 - TensorFlow, Keras, Scikit-Learn, OpenCV  
 
-### 💻 **Programming Languages**
-`Python` | `Java` | `C` | `SQL`
+## 🧰 Languages and Tools
 
-### 🌐 **Full-Stack Development**
-`React.js` | `Node.js` | `Express.js` | `Tailwind CSS` | `MongoDB` | `MySQL` | `Firebase`
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
 
-### 📊 **Data Analytics & Visualization**
-`Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Power BI`
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" alt="ReactJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="TailwindCSS"/>
 
-### 🧩 **Other Tools**
-`Git` | `GitHub` | `AI Agents` | `APIs` | `RESTful Services`
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="NodeJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="ExpressJS"/>
 
----
-
-## 🧪 Featured Projects  
-
-- 🐶 **[Dog Breed Classifier](https://github.com/KarthibanR/Dog-Breed-Classifier)** – Deep learning web app using ResNet50 & Flask  
-- ✋ **[Real-Time Sign Language Detection](https://github.com/KarthibanR/Sign-Language-Detection)** – CNN-based gesture recognition system  
-- 📈 **[Stock Market Predictor (LSTM)](https://github.com/KarthibanR/Stock-Predictor)** – Predicts future stock trends using LSTM and visualization dashboards  
-- 🍴 **[Restaurant Rating Analysis](https://github.com/KarthibanR/Restaurant-Rating-Analysis)** – Data cleaning, EDA, and model evaluation for business insights  
-- 💬 **[Career Guidance Chatbot](https://github.com/KarthibanR/Career-Chatbot)** – AI-powered career conversation bot with realistic responses  
-- ⚙️ **[ISP Management System](https://github.com/KarthibanR/ISP-Management-System)** – Java & MySQL-based system for managing internet service operations  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" height="50" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+</p>
 
 ---
 

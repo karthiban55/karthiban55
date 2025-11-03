@@ -70,8 +70,8 @@ I aim to **build, learn, and innovate** continuously — crafting unique project
 
 ## 📫 Connect with Me  
 
-📧 **Email:** [karthibanr@gmail.com](mailto:karthibanr@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/karthibanr](#) *(add your real link)*  
+📧 **Email:** [karthibanr.pvt@gmail.com](mailto:karthibanr.pvt@gmail.com)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/karthiban-r-9828b1379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#) *(add your real link)*  
 🧾 **Resume:** [View My Resume](Karthiban_R_Resume.pdf)  
 💻 **GitHub:** [github.com/KarthibanR](https://github.com/KarthibanR)  
 
